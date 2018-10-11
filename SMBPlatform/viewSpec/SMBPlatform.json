@@ -1,0 +1,5 @@
+{
+  "name" : "SMBPlatform",
+  "type" : "page",
+  "controller" : "AppC"
+}
